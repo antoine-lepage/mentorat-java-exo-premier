@@ -1,6 +1,8 @@
 /**
  * Dans cette classe, on tente d'afficher les résultat d'opérations de nombres entiers farfelus sur des GameBoy Color
  * Trouvez-les erreurs et corrigez-les
+ *
+ * Dans la mesure du possible, restez sur l'utilisation de nombres entiers
  */
 
 package fr.extia.mentorat.exercice;
