@@ -1,6 +1,8 @@
 /**
  * Dans cette classe, on tente d'afficher les résultat d'opérations de nombres décimaux sur des recettes de cuisine
  * Trouvez-les erreurs et corrigez-les
+ *
+ * Ce qu'on souhaite en affichage : Le total de nos courses pour cette super recette
  */
 
 package fr.extia.mentorat.exercice;
